@@ -1,63 +1,51 @@
-# HR-ANALYTICS-DASHBOARD
+# HR Analytics Dashboard
 
-## 📊 Project Overview
-This project is an interactive HR Analytics Dashboard created using Power BI and Excel data.
+## 📊 Overview
+This HR Analytics Dashboard is developed using Power BI to analyze employee data and generate meaningful business insights.
 
-The dashboard helps analyze:
+The dashboard helps HR teams understand:
 - Employee Attrition
-- Salary Distribution
-- Department-wise Performance
-- Gender Analysis
-- Job Satisfaction
+- Salary Analysis
 - Employee Count
+- Job Satisfaction
+- Department-wise Performance
+- Gender Distribution
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 - Power BI
-- Microsoft Excel
-- DAX
+- Excel
 - Data Cleaning
+- DAX Functions
 
 ---
 
-## 📁 Files Included
+## 📁 Dataset Used
 - HR Analysis Data.xlsx
-- DASHBOARD.png
 
 ---
 
-## 📌 Key Insights
-- Analyze employee attrition trends
-- Compare salary slabs
-- Department performance tracking
-- Employee demographics analysis
+## 📌 Dashboard Insights
+✔ Total Employees Analysis  
+✔ Attrition Rate Tracking  
+✔ Average Salary Insights  
+✔ Department-wise Employee Distribution  
+✔ Gender Analysis  
+✔ Employee Performance Monitoring  
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](DASHBOARD.png)
+![HR Dashboard](DASHBOARD.png)
 
 ---
 
-## 🚀 How to Use
-1. Download the Excel dataset
-2. Open Power BI Dashboard
-3. Refresh data if required
-4. Explore insights using filters and visuals
+## 🚀 Project Objective
+The objective of this project is to help organizations make data-driven HR decisions using interactive visualizations and analytics.
 
 ---
 
-## 📈 Dashboard Features
-✔ KPI Cards  
-✔ Interactive Filters  
-✔ Department Analysis  
-✔ Attrition Rate Analysis  
-✔ Salary Insights  
-✔ Employee Performance Tracking  
-
----
-
-## 👨‍💻 Author
-Shomesh Kumar Yadav
+## 👨‍💻 Created By
+Somesh
